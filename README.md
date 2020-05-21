@@ -1,2 +1,2 @@
 # Ml-lab
-Machine Learning Group Assignment2
+Machine Learning Group Assignments
